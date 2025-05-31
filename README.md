@@ -8,6 +8,6 @@
 
 [generate]https://github.com/trishaks/Hostel_Management_System/blob/main/generate%20report%20output.png
 
-[hostelManagement]https://github.com/Sakshi-BK/Hostel-Management-System/blob/master/HostelManagement1/hostelManagement%20output.png
+[hostelManagement]https://github.com/trishaks/Hostel_Management_System/blob/main/hostelManagement%20output.png
 
 [updatestudent]https://github.com/Sakshi-BK/Hostel-Management-System/blob/master/HostelManagement1/updatestudent%20output.png
