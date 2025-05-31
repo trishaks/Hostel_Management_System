@@ -10,4 +10,4 @@
 
 [hostelManagement]https://github.com/trishaks/Hostel_Management_System/blob/main/hostelManagement%20output.png
 
-[updatestudent]https://github.com/Sakshi-BK/Hostel-Management-System/blob/master/HostelManagement1/updatestudent%20output.png
+[updatestudent]https://github.com/trishaks/Hostel_Management_System/blob/main/updatestudent%20output.png
