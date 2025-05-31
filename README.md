@@ -1,4 +1,4 @@
-[addStudent]https://github.com/Sakshi-BK/Hostel-Management-System/blob/master/HostelManagement1/addStudent%20output.png
+[addStudent]https://github.com/trishaks/Hostel_Management_System/blob/main/addStudent%20output.png
 
 [addstudent.2]https://github.com/Sakshi-BK/Hostel-Management-System/blob/master/HostelManagement1/addstudent.2%20output.png
 
